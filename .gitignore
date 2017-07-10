@@ -1,0 +1,12 @@
+/beanvalidation-basics/nbproject/
+/beanvalidation-basics/target/
+/beanvalidation-custom-message-template/nbproject/
+/beanvalidation-custom-message-template/target/
+/01-beanvalidation-basics/nbproject/
+/01-beanvalidation-basics/target/
+/validation-custom-validator/nbproject/
+/02-beanvalidation-custom-message-template/nbproject/
+/02-beanvalidation-custom-message-template/target/
+/03-beanvalidation-custom-message-template-variable-replacement/target/
+/04-beanvalidation-custom-property-validator/target/
+/05-beanvalidation-custom-class-validator/target/
