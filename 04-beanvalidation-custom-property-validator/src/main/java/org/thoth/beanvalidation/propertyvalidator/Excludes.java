@@ -1,7 +1,6 @@
 package org.thoth.beanvalidation.propertyvalidator;
 
 /**
- *
  * @author Michael Remijan mjremijan@yahoo.com @mjremijan
  */
 import java.lang.annotation.Documented;

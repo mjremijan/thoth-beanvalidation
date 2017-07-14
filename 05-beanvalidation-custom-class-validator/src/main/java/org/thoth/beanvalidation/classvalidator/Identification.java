@@ -32,6 +32,4 @@ public class Identification {
     public void setPassportNumber(String passportNumber) {
         this.passportNumber = passportNumber;
     }
-
-
 }

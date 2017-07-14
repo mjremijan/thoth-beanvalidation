@@ -1,6 +1,5 @@
 package org.thoth.beanvalidation.basics;
 
-import org.thoth.beanvalidation.basics.Widget;
 import java.util.Set;
 import javax.validation.ConstraintViolation;
 import javax.validation.Validation;
@@ -10,7 +9,6 @@ import org.junit.Before;
 import org.junit.Test;
 
 /**
- *
  * @author Michael Remijan mjremijan@yahoo.com @mjremijan
  */
 public class WidgetTest {

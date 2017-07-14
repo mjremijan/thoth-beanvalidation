@@ -9,7 +9,6 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 /**
- *
  * @author Michael Remijan mjremijan@yahoo.com @mjremijan
  */
 public class CandyTest {

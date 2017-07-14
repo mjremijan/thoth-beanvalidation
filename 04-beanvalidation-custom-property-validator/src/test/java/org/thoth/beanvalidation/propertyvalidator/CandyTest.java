@@ -7,10 +7,8 @@ import javax.validation.Validator;
 import static org.junit.Assert.assertEquals;
 import org.junit.BeforeClass;
 import org.junit.Test;
-import org.thoth.beanvalidation.propertyvalidator.Candy;
 
 /**
- *
  * @author Michael Remijan mjremijan@yahoo.com @mjremijan
  */
 public class CandyTest {

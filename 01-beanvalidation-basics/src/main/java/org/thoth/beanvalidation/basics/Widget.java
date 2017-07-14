@@ -3,7 +3,6 @@ package org.thoth.beanvalidation.basics;
 import javax.validation.constraints.NotNull;
 
 /**
- *
  * @author Michael Remijan mjremijan@yahoo.com @mjremijan
  */
 public class Widget {

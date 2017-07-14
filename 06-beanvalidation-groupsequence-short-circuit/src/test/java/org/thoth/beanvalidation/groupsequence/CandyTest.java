@@ -1,6 +1,5 @@
 package org.thoth.beanvalidation.groupsequence;
 
-import org.thoth.beanvalidation.groupsequence.Candy;
 import java.util.Set;
 import javax.validation.ConstraintViolation;
 import javax.validation.Validation;
@@ -65,4 +64,3 @@ public class CandyTest {
         assertEquals("must match \"[a-z]\"", violations.iterator().next().getMessage());
     }
 }
-
